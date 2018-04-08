@@ -6,8 +6,6 @@ const Content = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  min-width: 325px;
-  /* border: 1px solid red; */
 `
 
 export default Content
