@@ -33,7 +33,7 @@ class Form extends Component {
   renderForm() {
     return (
       <Fragment>
-        <Text>Interesed in attending?</Text>
+        <Text>Interested in attending?</Text>
         <Space />
         <Textbox
           type='email'
